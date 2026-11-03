@@ -1,0 +1,14 @@
+{
+    "version":  "1.0.0",
+    "license":  "PolyForm-Noncommercial-1.0.0",
+    "name":  "cardinal-db",
+    "scripts":  {
+                    "test":  "node --test test/cardinal-db.test.js test/cardinal-message-store.test.js"
+                },
+    "private":  true,
+    "engines":  {
+                    "node":  "\u003e=20"
+                },
+    "description":  "Dependency-free JSON collection database for Node.js",
+    "main":  "libs/cardinal-db/index.js"
+}
