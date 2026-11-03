@@ -1,5 +1,6 @@
 <img width="1200" height="360" alt="cardinal-db-wordmark" src="https://github.com/user-attachments/assets/44cfc54e-b19b-40c3-9074-07143f492fd3" />
-# Cardinal-DB
+#Cardinal-DB
+
 Cardinals Built in DataBase cus why use SQ lite
 
 Cardinal DB is a small, dependency-free JSON database for Node.js. It stores records in named collections, writes changes atomically, and includes transactions, backups, repair checks, and an optional paged message-history store.
